@@ -1,0 +1,5 @@
+mysql-data/
+*.swp
+.env
+__pycache__/
+*.pyc
